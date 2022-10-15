@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.url{
+    height: 10rem;
+width: 14rem;
+}
+.PlanetItemContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+    /* width: 80%; */
+    
+}
+.name{
+    color: white;
+}
+.description{
+    color: white;
+   
+}
+li{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
